@@ -1,6 +1,6 @@
 # Hi there, I'm Shaik Nagoor Meeravali! 👋
 
-🌟 **Aspiring Full-Stack Developer** | 💻 **AI/ML Enthusiast** | 🎓 **Computer Science Graduate**  
+🌟 **Aspiring Full-Stack Developer** | 💻 **AI/ML Enthusiast** | 🎓 **Computer Science Graduate** 
 I'm passionate about developing innovative solutions, leveraging AI technologies, and building impactful software. My work reflects a mix of creativity, analytical thinking, and hands-on technical expertise.
 
 ---
