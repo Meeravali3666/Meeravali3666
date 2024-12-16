@@ -90,9 +90,9 @@ I'm passionate about developing innovative solutions, leveraging AI technologies
 ---
 
 ## 🌐 **How to Reach Me**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/NagoorMeeravali)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nagoor-meeravali-shaik-0b062324a/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/YourGitHubUsername)  
-[![Email](https://img.shields.io/badge/Email-meeravali27@gmail.com-red?style=flat-square)](mailto:meeravali27@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sn.meeravali27@gmail.com-red?style=flat-square)](mailto:sn.meeravali27@gmail.com)
 
 ---
 
